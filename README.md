@@ -7,7 +7,10 @@ Current Goals:
 - Screenshots
 - Integration Test
 
-https://www.rapid7.com/db/vulnerabilities/msft-cve-2022-26820/
+https://github.com/chompie1337/SIGRed_RCE_PoC
+https://www.youtube.com/watch?v=yiqLmfQCqeY
+https://www.tenable.com/blog/cve-2020-1350-wormable-remote-code-execution-vulnerability-in-windows-dns-server-sigred
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-1350
 
 
 ## Attack Stages:
